@@ -233,4 +233,8 @@ a:hover {
         align-items: center;
         justify-content: space-around;
     }
+
+    img.success{
+        padding-right: 15px;
+    }
 }
