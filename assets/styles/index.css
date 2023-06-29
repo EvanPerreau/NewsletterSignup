@@ -227,4 +227,10 @@ a:hover {
         width: 100%;
         height: 250px;
     }
+
+    #newsletter_signup_success {
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
 }
